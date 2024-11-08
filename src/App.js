@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import axios from 'axios';
-import Row from './components/Row';
+import Row from './components/Row.js';
 
 const url = 'http://localhost:3001'
 
